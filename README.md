@@ -1,4 +1,4 @@
-# Off-Line-Signature-Verification
+# Off Line Signature Verification
 
 There are two ways to identify the signatures, off-line and on-line signature recognition. On-line signature assesses the parameters such as speed of writing, the force employed on the signing instrument, the position of the hand, etc., all of which are physical factors that are outside the scope of this project. Off-line signature verification essentially treats the signature as an image and uses Neural Networks to identify the validity of the signature. 
 
